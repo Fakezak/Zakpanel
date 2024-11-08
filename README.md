@@ -18,5 +18,5 @@ The **Senxit Training Tool** is a fun, interactive web-based tool designed to si
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/senxit-training-tool.git
+   git clone https://github.com/Fakezak/Zakpanel/
    cd senxit-training-tool
